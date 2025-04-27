@@ -32,6 +32,7 @@ Solutions are organized by problem number and title, typically following this fo
 | # | Problem | Difficulty | Status |
 |---|---------|------------|--------|
 | 1 | Two Sum | Easy | ✅ Completed |
+| 9 | Palindrome Number | Easy | ✅ Completed |
 | ... | ... | ... | ... |
 
 (*This table will expand as I solve more problems!*)
