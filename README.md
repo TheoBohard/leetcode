@@ -29,10 +29,11 @@ Solutions are organized by problem number and title, typically following this fo
 
 ## 🏆 Progress
 
-| # | Problem | Difficulty | Status |
-|---|---------|------------|--------|
-| 1 | Two Sum | Easy | ✅ Completed |
-| 9 | Palindrome Number | Easy | ✅ Completed |
-| ... | ... | ... | ... |
+| #    | Problem           | Difficulty | Status      |
+| ---- | ----------------- | ---------- | ----------- |
+| 1    | Two Sum           | Easy       | ✅ Completed |
+| 9    | Palindrome Number | Easy       | ✅ Completed |
+| 2785 | Palindrome Number | Medium     | ✅ Completed |
+| ...  | ...               | ...        | ...         |
 
 (*This table will expand as I solve more problems!*)
